@@ -1,0 +1,7 @@
+POST http://localhost:3000/flight/booking
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjM1LCJ1c2VybmFtZSI6Ik9iaSIsImlhdCI6MTcxNTAyMzIxOSwiZXhwIjoxNzE1MDIzMjc5fQ.yDbH3F0tmx2KoDDzpGIq1ZoumprXP9Bo4XFot1E-8H8
+
+{
+  "userId": "37"
+}
